@@ -92,6 +92,8 @@
   text-overflow: ellipsis;
   font-weight: bolder;
   margin-right: 5px;
+  cursor: pointer;
+
 }
 
 .language svg {
@@ -112,8 +114,9 @@
   height: 2px;
 }
 
-.loginPage a{
+.loginPage > span{
   text-decoration: none;
+  cursor: pointer;
 }
 
 .sellMenu {

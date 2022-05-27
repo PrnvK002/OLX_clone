@@ -19,6 +19,7 @@
   .signupParentDiv button {
     width: 100%;
     height: 48px;
+    border: none;
     /* border-color: transparent; */
     background-color: #002f34;
     color: whitesmoke;
